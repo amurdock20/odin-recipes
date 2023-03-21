@@ -1,0 +1,1 @@
+This is a basic recipe website used to display what I haved learned so far in HTML coding. I am hoping to display two different recipes with ordered lists for steps while also including images of the steps and products. I am also going to include absolute and relative links to provide resources and navigate through the website.
